@@ -10,8 +10,7 @@
 const char* ssid = ""; 
 const char* password = ""; 
 
-// --- CONFIGURACIÓN DE LA API (Servidor de Producción HTTPS) ---
-const char* serverUrl = "https://internal.api.tomatesoft.com/send-messages"; 
+const char* serverUrl = ""; 
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
